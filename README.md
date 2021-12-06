@@ -2,11 +2,11 @@
 Unofficial Pytorch CONVOLUTIVE PREDICTION FOR REVERBERANT SPEECH SEPARATION https://arxiv.org/abs/2108.07194
 
 ## Todo
-- [ ] Speech Separation Model implementation
-- [ ] Weighted prediction error (WPE) implementation
+- [x] Speech Separation Model implementation
+- [x] DNN-Weighted prediction error (WPE) implementation
 - [ ] Inverse Convolutive Prediction (ICP) implementation
-- [ ] Forward Convolutive Prediction (FCP) implementation
-- [ ] Post Filter implementation (Speech Enhancement)
+- [x] Forward Convolutive Prediction (FCP) implementation
+- [x] Post Filter implementation (Speech Enhancement)
 
 
 ## Reference
